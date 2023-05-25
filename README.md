@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @OfficialSmojo17
-- 👀 I’m interested in: html, JavaScript (node.ja), Java, Python
-- 🌱 I’m currently learning: C#
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me: Discord: Smmojo17#3572
+<h2 align="center">Discord: SmojoAlt#3271</h2>
 
-<!---
-OfficialSmojo17/OfficialSmojo17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,css,html,java" />
+  </a>
+</p>
