@@ -1,4 +1,4 @@
-<h2 align="center">Discord: SmojoAlt#3271</h2>
+<h2 align="center">Discord: SmojoAlt</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
